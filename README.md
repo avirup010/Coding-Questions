@@ -23,7 +23,7 @@ Welcome to **Daily Coding Solutions**! 🎯 Here, you'll find my daily solutions
 ## 🛠️ How to Use
 1. **Clone the repository** 🖥️
    ```bash
-   git clone 
+   git clone https://github.com/avirup010/Coding-Questions.git
    ```
 2. **Navigate to the desired folder** 📂
    ```bash
